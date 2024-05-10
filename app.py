@@ -39,7 +39,7 @@ load_dotenv()
 
 # UI configuration (optional)
 #UI_TITLE = os.environ.get("UI_TITLE") or "Contoso"
-UI_TITLE = "作業効率化WG"
+UI_TITLE = "作業効率化用"
 UI_LOGO = os.environ.get("UI_LOGO")
 UI_CHAT_LOGO = os.environ.get("UI_CHAT_LOGO")
 
